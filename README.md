@@ -29,6 +29,7 @@ To overcome these challenges, a **two-stage architecture** is proposed:
 ```text
 Input Image → YOLOv11 Detection → NMS → ROI Extraction → EfficientNet-B0 → Final Output
 ```
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/717b5a15-0484-4db3-807b-86e1402ce927" />
 
 ### 🔹 Workflow
 
